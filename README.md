@@ -1,7 +1,7 @@
 # 最優先事項
 
 - マップデータはmap.zipにまとめてあるのでそれを使うこと
-- 足りないタイルセットファイルは[http://www.geocities.jp/dmdottostore/]にある"XP-MapChip"を一括ダウンロード
+- 足りないタイルセットファイルは http://www.geocities.jp/dmdottostore/ にある"XP-MapChip"を一括ダウンロード
 - マップとタイルセットを,tmxファイルの上のディレクトリに置けばTiledで読めるはず.
 
 # メモとか
